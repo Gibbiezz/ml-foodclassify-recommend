@@ -1,0 +1,187 @@
+[
+  {
+    "Nama Resep": "Bubur Daging Tomat",
+    "Kategori Usia": "9 - 12 bulan (untuk 1 porsi)",
+    "Energi (kkal)": 246.8,
+    "Protein (g)": 14.6,
+    "Lemak (g)": 9.2,
+    "Karbohidrat (g)": 24.7,
+    "Bahan": "50 gr daging giling, 3 sdm beras, 3 gls air matang, 1 bh tomat, 1 siung bawang putih",
+    "Cara Memasak": "1. Masukkan air dan beras ke dalam panci. Didihkan. 2. Setelah mendidih, kecilkan api, masukkan daging giling. 3. Aduk sesekali agar daging tidak menggumpal. 4. Setelah matang dan air habis, masukkan tomat dan bawang putih. 5. Aduk hingga tercampur rata. Hilangkan uap panasnya, sajikan."
+  },
+  {
+    "Nama Resep": "Bubur Kentang Tahu",
+    "Kategori Usia": "9 - 12 bulan (untuk 1 porsi)",
+    "Energi (kkal)": 144.3,
+    "Protein (g)": 6.5,
+    "Lemak (g)": 2.7,
+    "Karbohidrat (g)": 25.1,
+    "Bahan": "1/2 bh tahu putih, 2 bh kentang kecil (kukus), 1 gls kaldu sayur atau kaldu ikan",
+    "Cara Memasak": "1. Tumbuk kentang dan tahu hingga lembut. 2. Tuang kaldu dalam panci. Tunggu hingga mendidih. 3. Masukkan tahu dan kentang. Aduk sebentar. Kecilkan api. 4. Masak hingga kaldu menyusut. Setelah kaldu menyusut, angkat dan letakkan di mangkok."
+  },
+  {
+    "Nama Resep": "Bubur Wortel Tomat Telur",
+    "Kategori Usia": "9 - 12 bulan (untuk 2 porsi)",
+    "Energi (kkal)": 141.1,
+    "Protein (g)": 5.4,
+    "Lemak (g)": 2.9,
+    "Karbohidrat (g)": 23.1,
+    "Bahan": "5 sdm beras, 1 btr telur, 1/2 bh wortel, 1 bh tomat, 3 gls air matang",
+    "Cara Memasak": "1. Tuang air dalam panci. Masukkan beras yang telah dicuci. Tunggu hingga mendidih. 2. Setelah mendidih, kecilkan api. Masukkan wortel dan tomat. Aduk sesekali. 3. Masukkan telur. Tunggu 3 menit, aduk perlahan hingga mengental. 4. Masak hingga matang. Sajikan."
+  },
+  {
+    "Nama Resep": "Bubur Keju Daging Kentang",
+    "Kategori Usia": "9 - 12 bulan (untuk 2 porsi)",
+    "Energi (kkal)": 167.2,
+    "Protein (g)": 5.4,
+    "Lemak (g)": 9.4,
+    "Karbohidrat (g)": 30.8,
+    "Bahan": "2 sdm beras putih, 50 gr kentang, 20 gr daging sapi cincang, 1 btr bawang merah, 1 btr bawang putih, 1 sdm minyak zaitun, 2 sdm keju parut, 300 ml air",
+    "Cara Memasak": "1. Masukkan minyak zaitun tumis bawang merah dan putih sampai harum. 2. Setelah itu masukkan daging cincang, aduk rata sampai matang. 3. Tambahkan air dan tunggu sampai mendidih. 4. Setelah air mendidih, kecilkan api. 5. Masukkan beras dan kentang. Aduk dan masak hingga matang. 6. Sajikan dengan parutan keju di atasnya."
+  },
+  {
+    "Nama Resep": "Bubur Kentang Telur Keju",
+    "Kategori Usia": "9 - 12 bulan (untuk 1 porsi)",
+    "Energi (kkal)": 246.1,
+    "Protein (g)": 10.4,
+    "Lemak (g)": 15.9,
+    "Karbohidrat (g)": 16.8,
+    "Bahan": "1 bh kentang parut, 1 bh wortel parut, 1 btr telur ayam kampung, 1 siung bawang merah, 1 siung bawang putih, bawang bombay secukupnya, margarin secukupnya, keju parut secukupnya, parsley cincang secukupnya, air matang secukupnya",
+    "Cara Memasak": "1. Cincang halus bawang putih, bawang merah dan bawang bombay. 2. Panaskan margarin dan tumis semua bawang cincang hingga harum. 3. Tambahkan air kemudian masukkan parutan kentang dan wortel sambil diaduk-aduk. 4. Masukkan telur dan masak hingga airnya menyusut dan matang. 5. Sajikan dengan taburan parsley dan keju parut."
+  },
+
+    {
+        "Nama Resep": "Sayur Bening Bayam",
+        "Kategori Usia": "> 9 bulan (untuk 2 porsi)",
+        "Energi (kkal)": 85.0,
+        "Protein (g)": 5.9,
+        "Lemak (g)": 2.1,
+        "Karbohidrat (g)": 12.3,
+        "Bahan": "1. 1 ikat bayam, 2. 1 ptg kecil tempe, 3. 200 ml kaldu udang, 4. 1 bh tomat (iris), 5. 3 siung bawang merah (iris), 6. Gula secukupnya, 7. Garam secukupnya",
+        "Cara Memasak": "1. Masak air setengah panci sedang hingga mendidih kemudian tambahkan kaldu udang, 2. Masukkan bawang merah, tomat, dan tempe sampai agak layu, 3. Masukkan bayam dan beri gula serta garam secukupnya, 4. Angkat dan sajikan."
+    },
+    {
+        "Nama Resep": "Sup Udang Tofu",
+        "Kategori Usia": "> 9 bulan (untuk 2 porsi)",
+        "Energi (kkal)": 106.2,
+        "Protein (g)": 12.6,
+        "Lemak (g)": 5.4,
+        "Karbohidrat (g)": 5.0,
+        "Bahan": "1. 6 ekor udang kupas, bersihkan dan cincang, 2. 1 bh tofu, 3. 2 siung bawang putih, iris tipis, 4. 2 siung bawang merah, iris tipis, 5. secukupnya bawang bombay, iris, 6. 3 lembar daun jeruk, 7. 1 sdt minyak zaitun",
+        "Cara Memasak": "1. Rebus udang bersama bawang merah, bawang putih, bawang bombay dan daun jeruk, 2. Setelah setengah matang, masukkan tofu, 3. Masak hingga matang, 4. Sebelum disajikan, tambahkan minyak zaitun."
+    },
+    {
+        "Nama Resep": "Cah Brokoli Sosis",
+        "Kategori Usia": "> 1 tahun (untuk 2 porsi)",
+        "Energi (kkal)": 157.3,
+        "Protein (g)": 6.9,
+        "Lemak (g)": 8.1,
+        "Karbohidrat (g)": 16.5,
+        "Bahan": "1. 100 gr brokoli, potong-potong, 2. 100 gr wortel, potong-potong, 3. 4 bh sosis sapi, iris, 4. 1 bh bawang bombay, iris, 5. 4 siung bawang putih, iris, 6. 1/2 sdt garam, 7. 1/2 sdt gula, 8. Air secukupnya, 9. Margarin secukupnya",
+        "Cara Memasak": "1. Panaskan margarin dan tumis bawang putih dan bawang bombay sampai harum, 2. Tambahkan air, tunggu hingga mendidih, kemudian tambahkan garam dan gula, 3. Masukkan sosis dan wortel, tunggu sampai wortel empuk, 4. Masukkan brokoli, aduk sampai matang. Sajikan."
+    },
+    {
+        "Nama Resep": "Bakso Sehat",
+        "Kategori Usia": "> 1 tahun (untuk 25 buah)",
+        "Energi (kkal)": 23.9,
+        "Protein (g)": 1.9,
+        "Lemak (g)": 1.2,
+        "Karbohidrat (g)": 1.5,
+        "Bahan": "1. 1 bagian dada ayam, 2. 2 bh tahu putih, 3. 1 bh wortel sedang, potong-potong, 4. 1/2 ikat bayam, buang batang dan potong-potong daunnya, 5. 2 siung bawang putih, 6. 1/4 sdt merica, 7. 1 sdt garam, 8. 1 btr telur, 9. 1 sdm penuh tepung terigu, 10. 1 sdm penuh tepung tapioka",
+        "Cara Memasak": "1. Potong ayam dan tahu, masukkan wortel, bayam dan telur. Blender hingga halus, 2. Haluskan bawang putih, garam dan merica. Masukkan ke dalam adonan dan blender kembali hingga merata, 3. Tambahkan tepung terigu dan tepung tapioka. Aduk hingga merata, 4. Panaskan air hingga mendidih, 5. Cetak adonan dengan tangan atau 2 buah sendok. Rebus hingga mengambang dan matang. Tiriskan dan sajikan."
+    },
+    {
+        "Nama Resep": "Perkedel Daging",
+        "Kategori Usia": "> 10 bulan (untuk ± 6 buah)",
+        "Energi (kkal)": 96.7,
+        "Protein (g)": 4.3,
+        "Lemak (g)": 7.0,
+        "Karbohidrat (g)": 4.7,
+        "Bahan": "1. 2 bh kentang ukuran sedang, potong dadu, 2. 2 sdm daging giling, 3. 50 gr tahu, potong kecil, 4. 2 bh bawang putih, 5. 1 btg seledri, cincang, 6. 1 btg daun bawang, cincang, 7. 1 btr telur, 8. Garam secukupnya, 9. Minyak untuk menggoreng",
+        "Cara Memasak": "1. Kukus kentang terlebih dahulu selama 10 menit, lalu masukkan tahu, kukus kembali selama 5 menit (total 15 atau sampai kentang empuk, 2. Ulek kentang, tahu, bawang putih, dan garam, 3. Masukkan daging giling, seledri dan daun bawang, 4. Aduk hingga tercampur rata dan bentuk bulat pipih, 5. Lumuri bulatan adonan dengan telur dan goreng hingga matang kuning kecoklatan."
+    },
+    {
+        "Nama Resep": "Nugget Ikan Tahu",
+        "Kategori Usia": "> 1 tahun (untuk ± 6 buah)",
+        "Energi (kkal)": 120.1,
+        "Protein (g)": 10.2,
+        "Lemak (g)": 6.2,
+        "Karbohidrat (g)": 6.0,
+        "Bahan": "1. 200 gr daging ikan kakap cincang, 2. 100 gr tahu putih (hancurkan dgn garpu), 3. 1 bh telur, 4. 50 gr wortel parut, 5. 50 gr bawang bombay cincang, 6. 3 bh bawang putih cincang, 7. 2 bh bawang merah cincang, 8. 2 sdm terigu, 9. 2 sdm tepung roti, 10. 1 sdt minyak wijen, 11. Garam dan kaldu secukupnya",
+        "Bahan Pelapis": "1. 1 bh telur kocok+air secukupnya+terigu (aduk rata kental), 2. Tepung panir secukupnya",
+        "Cara Memasak": "1. Campur semua bahan utama menjadi satu sampai merata, 2. Bentuk adonan menjadi kotak pipih, 3. Kukus selama 15 – 20 menit. Setelah matang dinginkan, 4. Setelah agak dingin, potong nugget sesuai selera, 5. Celupkan ke dalam bahan pelapis (telur+air+terigu) kemudian lumuri dengan tepung panir, 6. Simpan di kulkas kurang lebih 30 menit, 7. Goreng nugget hingga matang."
+    },
+    {
+        "Nama Resep": "Nugget Ayam Sayur",
+        "Kategori Usia": "> 2 Tahun (untuk ± 15 buah)",
+        "Energi (kkal)": 69.7,
+        "Protein (g)": 4.7,
+        "Lemak (g)": 5.0,
+        "Karbohidrat (g)": 1.5,
+        "Bahan": "1. 200 gr daging ayam giling, 2. 1 btg wortel (parut halus), 3. 30 gr bayam (rebus kemudian cincang halus), 4. 1 lbr roti tawar (haluskan), 5. 2 btr telur, 6. 1 sdt garam, 7. 1 sdt merica bubuk, 8. Minyak untuk menggoreng",
+        "Bahan Pelapis": "1. 1 btr telur kocok lepas, 2. 100 gr tepung panir halus",
+        "Cara Memasak": "1. Campur ayam, wortel, bayam, roti, telur, garam, merica, dan pala hingga merata, 2. Masukkan ke dalam loyang ukuran 18x18x4 cm yang sudah diberi alas plastik dan diolesi minyak sayur, 3. Kukus kurang lebih 20 menit hingga matang, angkat dan dinginkan, 4. Keluarkan dari loyang dan potong-potong, 5. Gulingkan ke dalam tepung panir, celupkan ke dalam telur dan gulingkan kembali ke tepung roti, 6. Goreng hingga matang."
+    },
+    {
+        "Nama Resep": "Timlo Ayam",
+        "Kategori Usia": "> 1 tahun (untuk 8 porsi)",
+        "Energi (kkal)": 190.9,
+        "Protein (g)": 11.3,
+        "Lemak (g)": 8.2,
+        "Karbohidrat (g)": 17.3,
+        "Bahan": "1/4 kg dada ayam tak bertulang, Kuah: 1. 2 siung bawang putih, 2. 4 siung bawang merah, 3. 1 bh serai, 4. 2 bh daun jeruk, 5. 1,5 ltr air, 6. Garam, gula dan lada secukupnya, Bumbu ayam: 1. 1 siung bawang putih, 2. 2 siung bawang merah, 3. 2 lbr daun jeruk, Pindang telur: 1. 3 bh telur ayam kampung rebus, 2. 1 bh bawang putih, 3. 2 bh bawang merah, 4. 1 sdm kecap manis, 5. 2 bh daun jeruk, 6. 1 lbr daun salam, 7. Garam, gula dan lada secukupnya, Pelengkap: 1. Bawang merah goreng, 2. Soun rebus, 3. Jamur kuping (rendam air panas), 4. 2 bh wortel rebus, potong-potong",
+        "Cara Memasak": "1. Rebus ayam hingga ayam empuk dan air menjadi kaldu. Angkat ayam dan suwir-suwir, 2. Kuah: tumis bawang putih merah sampai kecoklatan, masukkan ke kuah kaldu, tambahkan daun jeruk, serai, garam, gula, lada, rebus kuah harum, 3. Ayam: tumis bawang merah dan bawang putih, daun jeruk sampai harum, 4. Pindang telur: tumis bawang merah dan bawang putih sampai harum. Masukkan daun salam, daun jeruk, air, garam, gula, lada, kecap manis, telur rebus, masak sampai telur kecoklatan dan meresep, 5. Penyajian: Tata ke dalam mangkuk telur, ayam suwir, soun, wortel, dan jamur tiram. Siram dengan kuah dan taburi bawang goreng."
+    },
+    {
+        "Nama Resep": "Ayam Crispy Lapis Sayuran",
+        "Kategori Usia": "> 3 tahun (untuk 3 porsi)",
+        "Energi (kkal)": 307.2,
+        "Protein (g)": 20.4,
+        "Lemak (g)": 20.4,
+        "Karbohidrat (g)": 7.3,
+        "Bahan": "1. 250 gr dada ayam (iris tipis melebar dan pukul), 2. 50 gr daun bayam (rebus), 3. 1 bh wortel (iris tipis memanjang), 4. 2 lbr keju, 5. 1/2 sdt garam, 6. 1/2 sdt merica bubuk, 7. 1/2 sdt kecap manis, 8. 1/2 sdt kecap inggris, 9. Minyak untuk menggoreng, 10. Tepung panir kasar (untuk pelapis), 11. 2 btr putih telur (untuk pencelup)",
+        "Cara Memasak": "1. Lumuri daging ayam dengan garam, merica bubuk, kecap manis dan kecap inggris. Diamkan selama 30 menit, 2. Ambil satu lembar daging ayam tadi dan tata bayam, keju lembaran, dan wortel di atasnya. Tutup dengan selembar daging ayam. Tekan-tekan sampai pinggirannya menempel, 3. Lumuri daging dengan tepung panir dan celup ke dalam putih telur. Lumuri lagi dengan tepung panir, 4. Goreng hingga matang kuning kecoklatan."
+    },
+    {
+        "Nama Resep": "Bitterbollen Kentang",
+        "Kategori Usia": "> 1 tahun (untuk ± 10 buah)",
+        "Energi (kkal)": 73.0,
+        "Protein (g)": 4.0,
+        "Lemak (g)": 3.9,
+        "Karbohidrat (g)": 6.6,
+        "Bahan": "1. 3 bh kentang, 2. 3 sdm tepung terigu, 3. 1 bh bawang bombay, cincang, 4. 3 siung bawang putih, cincang, 5. 100 gr daging ayam giling, 6. 100 ml susu cair, 7. 50 gr keju cheddar parut, 8. Margarin secukupnya",
+        "Bahan Pencelup": "1. Garam secukupnya, 2. 1 btr telur kocok lepas, 3. Tepung panir secukupnya",
+        "Cara Memasak": "1. Kukus kentang sampai empuk, haluskan dengan garpu selagi hangat, sisihkan, 2. Panaskan margarin, tumis bawang putih dan bawang bombay hingga harum kemudian masukkan daging ayam giling. Aduk dan tekan-tekan supaya tidak menggumpal, 3. Setelah daging halus dan matang, masukkan kentang, keju parut, susu, garam, dan tepung terigu sedikit demi sedikit hingga adonan bisa dibentuk. Masak dengan api kecil, 4. Setelah agak kalbentuk bulatan dengan ukuran sesuai selera, 5. Celup bulatan dalam kocokan telur dan gulingkan di tepung panir, 6. Simpan dalam lemari es minimal 2 jam, 7. Goreng hingga matang berwarna kuning keemasan."
+    },
+    {
+        "Nama Resep": "Steak Tempe",
+        "Kategori Usia": "> 1 tahun (untuk 4 porsi)",
+        "Energi (kkal)": 296.6,
+        "Protein (g)": 21.2,
+        "Lemak (g)": 16.5,
+        "Karbohidrat (g)": 16.0,
+        "Bahan": "1. 1 btg tempe, 2. 200 gr daging ayam giling, 3. 3 siung bawang putih, 4. 1 btr telur, 5. 1 btg daun bawang, rajang, 6. 2 sdm tepung terigu, 7. Garam secukupnya, Bahan saus:, 1. 1/2 btr bawang bombai, rajang, 2. Tepung maizena secukupnya, 3. 2 sdm kecap manis, 4. 2 sdm saus tomat, 5. 2 sdm saus sambal, 6. Garam secukupnya, 7. Gula secukupnya, 8. 200 ml Air kaldu, 9. Margarin untuk menumis",
+        "Cara Memasak": "1. Buat steak tempe: kukus tempe selama 5 menit. Kemudian haluskan dan campurkan dalam satu wadah dengan daging ayam giling, telur, daun bawang, bawang putih, tepung terigu & garam. Aduk rata kemudian bentuk bulat-bulat dan pipihkan, 2. Cara buat saus tempe: panaskan 1 sendok margarine, tumis bawang bombay. Masukkan air kaldu, aduk dan tambahkan kecap manis, saus tomat, saus sambal, gula, dan garam. Setelah mendidih tambahkan larutan maizena dan aduk terus hingga mengental. Sisihkan, 3. Panaskan wajan anti lengket dan olesi margarine. Panggang steak tempe hingga matang dengan cara membolak balik hingga matangnya merata. Setelah semua matang sisihkan, 4. Atur steak tempe di atas piring kemudian siram dengan saus di atasnya."
+    },
+    {
+        "Nama Resep": "Pancake",
+        "Kategori Usia": "> 1 tahun (untuk 4 porsi)",
+        "Energi (kkal)": 228.1,
+        "Protein (g)": 5.0,
+        "Lemak (g)": 8.6,
+        "Karbohidrat (g)": 33.1,
+        "Bahan": "1. 100 gr tepung terigu, 2. 2 sdm gula pasir, 3. Garam secukupnya, 4. 1 sdt baking powder, 5. 1 btr telur ayam, 6. 100 ml susu cair, 7. 30 gram mentega, 8. Madu sesukupnya.",
+        "Cara Memasak": "1. Campur tepung terigu, gula pasir, garam, dan baking powder. Aduk rata. Tuang campuran telur dan susu cair. Aduk sampai adonan tercampur rata dan lembut, 2. Masukan mentega cair. Aduk rata, 3. Olesi teflon dengan sedikit mentega dan panaskan diatas kompor. Kemudian tuang 1 sendok sayur adonan ke dalam teflon, 4. Masak pancake sampai adonan di bagian dalam teflon berwarna kuning keemasan, 5. Jika sudah terbentuk gelembung, balik adonan secara perlahan, 6. Masak sebentar kemudian angkat, 7. Sajikan dengan menuangkan madu di atasnya."
+    },
+    {
+        "Nama Resep": "Puding Susu",
+        "Kategori Usia": "> 7 bulan (untuk ± 10 buah)",
+        "Energi (kkal)": 105.8,
+        "Protein (g)": 4.4,
+        "Lemak (g)": 3.7,
+        "Karbohidrat (g)": 14.3,
+        "Bahan": "1. 500 ml susu coklat, 2. 500 ml susu putih plain, 3. 1 btr kuning telur, 4. 2 sdm gula, 5. 1 bks agar-agar coklat, 6. 1 bks agar-agar putih",
+        "Cara Memasak": "1. Agar-agar coklat: tuang susu coklat, agar-agar coklat ke panci. Masak hingga mendidih dan tuang ke dalam cetakan, 2. Agar-agar putih: tuang susu putih, agar-agar putih, gula, kuning telur dalam panci, aduk, didihkan, 3. Setelah agar-agar putih mendidih, tuang di atas agar-agar coklat yang belum keras sempurna. Agar-agar putih akan membentuk pola sendiri, 4. Dinginkan sampai mengeras. Sajikan."
+    }
+]
+
