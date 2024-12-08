@@ -1,1 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Classification and Recipe Recommendation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        form {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            max-width: 400px;
+            margin: 0 auto 20px;
+        }
+        input[type="file"] {
+            margin: 10px 0;
+            padding: 10px;
+            display: block;
+            width: 100%;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        h2, h3 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background-color: #fff;
+            margin: 10px 0;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        li h4 {
+            margin: 0;
+            font-size: 1.2em;
+        }
+        p {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <h1>Upload an Image to Classify</h1>
 
+    <form method="POST" enctype="multipart/form-data">
+        <input type="file" name="image" accept="image/*" required>
+        <button type="submit">Upload and Classify</button>
+    </form>
+
+    {% if label %}
+        <h2>Predicted Ingredient: {{ label }}</h2>
+        
+        {% if recipes %}
+            <h3>Related Recipes:</h3>
+            <ul>
+                {% for recipe in recipes %}
+                    <li>
+                        <h4>{{ recipe['Nama Resep'] }}</h4>
+                        <p><strong>Nama Resep:</strong> {{ recipe['Nama Resep'] }}</p>
+                        <p><strong>Kategori Usia:</strong> {{ recipe['Kategori Usia'] }}</p>
+                        <p><strong>Energi (kkal):</strong> {{ recipe['Energi (kkal)'] }}</p>
+                        <p><strong>Protein (g):</strong> {{ recipe['Protein (g)'] }}</p>
+                        <p><strong>Lemak (g):</strong> {{ recipe['Lemak (g)'] }}</p>
+                        <p><strong>Karbohidrat (g):</strong> {{ recipe['Karbohidrat (g)'] }}</p>
+                        <p><strong>Bahan:</strong> {{ recipe['Bahan'] }}</p>
+                        <p><strong>Cara Memasak:</strong> {{ recipe['Cara Memasak'] }}</p>
+                    </li>
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p>No recipes found for the predicted ingredient.</p>
+        {% endif %}
+    {% else %}
+        <p>Upload an image to see the result.</p>
+    {% endif %}
+</body>
+</html>
