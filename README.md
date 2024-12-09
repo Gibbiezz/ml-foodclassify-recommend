@@ -1,4 +1,3 @@
-```markdown
 # **ML Food Classify & Recipe Recommendation**
 
 Welcome to **ML Food Classify & Recipe Recommendation**! This project uses machine learning to classify food images and recommend recipes based on the predicted class.
@@ -12,16 +11,17 @@ Start by cloning this repository to your local machine:
 
 ```bash
 git clone https://github.com/Gibbiezz/ml-foodclassify-recommend.git
+```
 
 ### **2. Set up your Google Colab environment**
 If you're using Google Colab, here’s what you need to do:
-- Upload the dataset.zip file to your Google Drive.
+- Upload the ```dataset.zip``` file to your Google Drive.
 - In Colab, ensure the following files are available:
-- classifier_finetuned.h5 (your fine-tuned model)
-- dataset.zip (the dataset file to train your model)
-- imageclassify.ipynb (Jupyter notebook for classification)
-- recipes.json (JSON file with food recipes)
-- test images/ (folder with test images like test12.jpeg)
+- ```classifier_finetuned.h5``` (your fine-tuned model)
+- ```dataset.zip``` (the dataset file to train your model)
+- ```imageclassify.ipynb``` (Jupyter notebook for classification)
+- ```recipes.json``` (JSON file with food recipes)
+- ```test images/``` (folder with test images like test12.jpeg)
 
 ### **3. Extract and split the dataset**
 After uploading the dataset, you’ll need to extract the dataset.zip file and split the images into training and validation sets (80%/20%). The Colab notebook already contains the code to handle this, so just follow the steps in the notebook.
